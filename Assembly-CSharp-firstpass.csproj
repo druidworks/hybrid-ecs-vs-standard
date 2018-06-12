@@ -74,58 +74,58 @@
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <Reference Include="Unity.Transforms">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Transforms.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Transforms.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Entities.Properties">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Entities.Properties.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Entities.Properties.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Jobs">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Jobs.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Jobs.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Jobs.Editor">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Jobs.Editor.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Jobs.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Entities.Editor">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Entities.Editor.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Entities.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Properties">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Properties.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Properties.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rendering.Hybrid">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Rendering.Hybrid.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Properties.Editor">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Properties.Editor.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Properties.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Entities.Hybrid">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Entities.Hybrid.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Entities">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Entities.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Entities.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Transforms2D">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Transforms2D.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Transforms2D.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Transforms.Hybrid">
-      <HintPath>C:/__Projects/Unity/ECSExample/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Library/ScriptAssemblies/Unity.Transforms.Hybrid.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>F:/Apps/2018.1.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -323,19 +323,19 @@
       <HintPath>F:/Apps/2018.1.1f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderCore-Unity5">
-      <HintPath>C:/__Projects/Unity/ECSExample/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
     </Reference>
     <Reference Include="ProBuilderMeshOps-Unity5">
-      <HintPath>C:/__Projects/Unity/ECSExample/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Assets/ProCore/ProBuilder/Classes/ProBuilderMeshOps-Unity5.dll</HintPath>
     </Reference>
     <Reference Include="KdTreeLib">
-      <HintPath>C:/__Projects/Unity/ECSExample/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Assets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
     </Reference>
     <Reference Include="pb_Stl">
-      <HintPath>C:/__Projects/Unity/ECSExample/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Assets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
     </Reference>
     <Reference Include="Poly2Tri">
-      <HintPath>C:/__Projects/Unity/ECSExample/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
+      <HintPath>C:/__Projects/Unity/_GIT/ECSExample/Assets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>H:/Users/Kelly/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
